@@ -12,28 +12,25 @@ By [greje656](https://www.reddit.com/user/greje656/) on Reddit
 - What do I hope to learn from this project?
 - What skills do I want to improve or acquire?
 - Are there any specific milestones I want to reach?
-	I am expecting to learn how computers process data like binaries. Currently, I have an understanding of the basic fundamentals of digital logic. I hope that this project will help fill in the blanks in my understanding of how data is being stored and used by computers. By the end of this course, I should be able to explain the basics of computer processes in layman terms.[
+	I am expecting to learn how computers process data like binaries. Currently, I have an understanding of the basic fundamentals of digital logic. I hope that this project will help fill in the blanks in my understanding of how data is being stored and used by computers. By the end of this course, I should be able to explain the basics of computer processes in layman terms.
 
 ### Build an 8-bit computer from scratch
 
-](https://eater.net/8bit/)
-
-### Build an 8-bit computer from scratch
 
 ---
 
-## <span style="background:#d3f8b6">==Expectations==</span>
+## Expectations
 [[8_Bit_Computer.jpeg]]
-- How detailed do I wa<mark style="background: #FFB8EBA6;">nt my documentation to be?</mark>
-- What kind of outputs do I hope to produce? (e.==g., videos, schematics, written notes)==
+- How detailed do I want my documentation to be?
+- What kind of outputs do I hope to produce? (e.g., videos, schematics, written notes)
 - How much time per week am I realistically dedicating?
 
----
+<span style="background:#d3f8b6">---</span>
 
 ## Project Scope
 
-- What parts of the 8-bit CPU will I focus on first? <mark style="background: #FFF3A3A6;">(e.g., ALU, registers, memory)</mark>
-- Will I include optional experiments or extensions? <mark style="background: #ADCCFFA6;">(e.g., input/output devices)</mark>
+- What parts of the 8-bit CPU will I focus on first? (e.g., ALU, registers, memory)
+- Will I include optional experiments or extensions? (e.g., input/output devices)
 
 ---
 
