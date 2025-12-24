@@ -1,16 +1,9 @@
-# Ben Eater 8-Bit CPU Project
+# Ben Eater 8-Bit Computer Project
+
+![8-Bit Computer][Images/8_Bit_Computer]
 
 
-
-
-| vi=i |     |     |     |     |     |
-| ---- | --- | --- | --- | --- | --- |
-|      |     |     |     |     |     |
-
-
-## Introduction
-
-> Briefly describe what this project is about in your own words.
+at this project is about in your own words.
 > [!summary] 
 >  
 ---
