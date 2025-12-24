@@ -8,8 +8,10 @@ Focus:
 - Researching to gain a deeper understanding of how computers works aside from Ben Eater’s instructions.
 
 Side Focus:
-- Using GitHub to document my progress on Ben Eater’s 8-bit project.
+- Operate GitHub to document my progress on Ben Eater’s 8-bit project.
 - Understanding how to document projects for futures references.
-- 
+- Master Obsidian and Multi-Markdown formatting.
 
 Notes are written primarily for myself as a learning log.
+
+I will also be using ChatGPT and ProWritingAid to quickly create templates and wording structures
