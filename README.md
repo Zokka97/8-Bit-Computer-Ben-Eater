@@ -8,6 +8,8 @@ Focus:
 - Researching to gain a deeper understanding of how computers works aside from Ben Eater’s instructions.
 
 Side Focus:
-
+- Using GitHub to document my progress on Ben Eater’s 8-bit project.
+- Understanding how to document projects for futures references.
+- 
 
 Notes are written primarily for myself as a learning log.
