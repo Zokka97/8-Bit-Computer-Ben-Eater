@@ -1,9 +1,8 @@
 # Ben Eater 8-Bit Computer Project
 
-![8-Bit Computer][Images/8_Bit_Computer]
+![8-Bit Computer][Images/8_Bit_Computer.jpeg]
+By [greje656](https://www.reddit.com/user/greje656/) on Reddit
 
-
-at this project is about in your own words.
 > [!summary] 
 >  
 ---
@@ -13,7 +12,13 @@ at this project is about in your own words.
 - What do I hope to learn from this project?
 - What skills do I want to improve or acquire?
 - Are there any specific milestones I want to reach?
-	I am expecting to learn how computers process data like binaries. Currently, I have an understanding of the basic fundamentals of digital logic. I hope that this project will help fill in the blanks in my understanding of how data is being stored and used by computers. By the end of this course, I should be able to explain the basics of computer processes in layman terms.
+	I am expecting to learn how computers process data like binaries. Currently, I have an understanding of the basic fundamentals of digital logic. I hope that this project will help fill in the blanks in my understanding of how data is being stored and used by computers. By the end of this course, I should be able to explain the basics of computer processes in layman terms.[
+
+### Build an 8-bit computer from scratch
+
+](https://eater.net/8bit/)
+
+### Build an 8-bit computer from scratch
 
 ---
 
