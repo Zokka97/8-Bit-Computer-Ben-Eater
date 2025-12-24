@@ -3,8 +3,8 @@
 VAULT="/Users/zokka/Library/Mobile Documents/iCloud~md~obsidian/Documents/8-bit Computer"
 cd "$VAULT" || exit 1
 
-# Wait 60 seconds to let iCloud finish syncing
-sleep 60
+# Wait 1 seconds to let iCloud finish syncing
+sleep 1
 
 # Pull latest changes from GitHub
 git pull --rebase
