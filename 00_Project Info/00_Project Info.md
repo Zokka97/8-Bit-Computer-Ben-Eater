@@ -1,6 +1,6 @@
 # Ben Eater 8-Bit Computer Project
 
-![8-Bit Computer][Images/8_Bit_Computer.jpeg]
+![8-Bit Computer][Images/greje656_8_Bit_Computer.jpeg]
 By [greje656](https://www.reddit.com/user/greje656/) on Reddit
 
 > [!summary] 
@@ -20,7 +20,7 @@ By [greje656](https://www.reddit.com/user/greje656/) on Reddit
 ---
 
 ## Expectations
-[[8_Bit_Computer.jpeg]]
+[[greje656_8_Bit_Computer.jpeg]]
 - How detailed do I want my documentation to be?
 - What kind of outputs do I hope to produce? (e.g., videos, schematics, written notes)
 - How much time per week am I realistically dedicating?
