@@ -14,4 +14,4 @@ Ben Eater’s 8-bit breadboard computer.
 
 I will also be using ChatGPT and ProWritingAid to quickly create templates and grammar structures easing up the documentation process. However, most of the writing will be written by me.
 
-> Note that this repository will only serve as a learning journey for me, it’s not intended to be a guide and might not represent an accurate reference for other uses.
+> Note that this repository will only serve as a record of my journey, it’s not intended to be a guide and might not represent an accurate reference for others trying to use it as a guide.
