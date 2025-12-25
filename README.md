@@ -3,9 +3,9 @@
 This repository documents my learning process while building
 Ben Eater’s 8-bit breadboard computer.
 
-Focus:
+## Focus:
 - Learning how each block of a CPU (Central Processing Unit) works.
-- Researching to gain a deeper understanding of how computers works aside from Ben Eater’s instructions.
+- Researching to gain a deeper understanding of how computers work aside from Ben Eater’s instructions.
 
 Side Focus:
 - Operate GitHub to document my progress on Ben Eater’s 8-bit project.
@@ -14,4 +14,4 @@ Side Focus:
 
 I will also be using ChatGPT and ProWritingAid to quickly create templates and wording structures easing up the documentation process. However, most of the writing will be written by me.
 
-Note that this repository will only serve as a learning journey for me, it’s not intended to be a guide and might not represent an accurate reference for other uses.
+> Note that this repository will only serve as a learning journey for me, it’s not intended to be a guide and might not represent an accurate reference for other uses.
