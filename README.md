@@ -1,7 +1,6 @@
 # 8-Bit Computer (Ben Eater)
 
-![8-Bit Computer][IMG_2590.jpeg]
-*Source: [Ben Eater](https://eater.net/) Website*
+![8-Bit Computer][01_Images/Ben_Eater_8_Bit_Computer]*Source: [Ben Eater](https://eater.net/) Website*
 
 This repository documents my learning process while building Ben Eater’s 8-bit breadboard computer.
 
