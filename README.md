@@ -1,6 +1,6 @@
 # 8-Bit Computer (Ben Eater)
 
-This repository documents my learning process while building
+![8-Bit Computer][IMG_2590.jpeg]This repository documents my learning process while building
 Ben Eater’s 8-bit breadboard computer.
 
 ## Focus:
