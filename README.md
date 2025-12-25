@@ -14,6 +14,13 @@ This repository documents my learning process while building Ben Eater’s 8-bit
 - Understanding how to document projects for futures references.
 - Master Obsidian and Multi-Markdown formatting.
 
+
+## About Me
+I am a Computer Engineer Technology student at New York City College of Technology with the focus on system integration.
+
+Many has helped me throughout the years especially with a Software Engineer friend of mine who started my journey through programming and a co-worker of mine who sparked my curiosity for electronics.
+
+## Document Approach
 I will also be using ChatGPT and ProWritingAid to quickly create templates and grammar structures easing up the documentation process. However, most of the writing will be written by me.
 
 > Note that this repository will only serve as a record of my journey, it’s not intended to be a guide and might not represent an accurate reference for others trying to use it as a guide.
