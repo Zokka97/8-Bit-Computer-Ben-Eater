@@ -7,7 +7,7 @@ Ben Eater’s 8-bit breadboard computer.
 - Learning how each block of a CPU (Central Processing Unit) works.
 - Researching to gain a deeper understanding of how computers work aside from Ben Eater’s instructions.
 
-Side Focus:
+## Side Focus:
 - Operate GitHub to document my progress on Ben Eater’s 8-bit project.
 - Understanding how to document projects for futures references.
 - Master Obsidian and Multi-Markdown formatting.
