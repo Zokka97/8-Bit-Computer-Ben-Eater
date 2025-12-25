@@ -1,7 +1,9 @@
 # 8-Bit Computer (Ben Eater)
 
-![8-Bit Computer][IMG_2590.jpeg]This repository documents my learning process while building
-Ben Eater’s 8-bit breadboard computer.
+![8-Bit Computer][IMG_2590.jpeg]
+*Source: [Ben Eater](https://eater.net/) Website*
+
+This repository documents my learning process while building Ben Eater’s 8-bit breadboard computer.
 
 ## Focus:
 - Learning how each block of a CPU (Central Processing Unit) works.
