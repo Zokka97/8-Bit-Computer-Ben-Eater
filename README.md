@@ -12,6 +12,6 @@ Side Focus:
 - Understanding how to document projects for futures references.
 - Master Obsidian and Multi-Markdown formatting.
 
-Notes are written primarily for myself as a learning log.
+I will also be using ChatGPT and ProWritingAid to quickly create templates and wording structures easing up the documentation process. However, most of the writing will be written by me.
 
-I will also be using ChatGPT and ProWritingAid to quickly create templates and wording structures
+Note that this repository will only serve as a learning journey for me, it’s not intended to be a guide and might not an accurate for other uses.
