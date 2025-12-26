@@ -21,6 +21,6 @@ I will also use ChatGPT and ProWritingAid to create templates and grammar struct
 > Note that this repository will only serve as a record of my journey; it’s not intended to be a guide and might not represent an accurate reference for others trying to use it as a guide.
 
 ## About Me
-I am a computer engineering technology student at New York City College of Technology with a focus on system integration.
+I am a Computer Engineering Technology student at New York City College of Technology with a focus on system integration.
 
 Many have helped me throughout the years, especially a software engineer friend of mine who started my journey through programming, and a co-worker who sparked my curiosity for electronics.
