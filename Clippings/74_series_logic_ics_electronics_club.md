@@ -3,7 +3,7 @@ title: "74 Series Logic ICs | Electronics Club"
 source: "https://electronicsclub.info/74series.htm"
 author:
 published:
-created: 2025-12-23
+created: 2025-12-26
 description: "Learn about 74 Series Logic ICs including the 74HC, 74HCT, 74LS families, open collector output, logic gates, counters, decoders and display drivers."
 tags:
   - "clippings"

@@ -4,8 +4,8 @@ source: "https://eater.net/8bit"
 author:
   - "[[Ben Eater]]"
 published:
-created: 2025-12-22
-description: "Learn how computers work by building and programming your own with these educational videos and kits."
+created: 2025-12-26
+description: "I create tutorial-style videos about electronics, computer architecture, networking, and various other technical subjects."
 tags:
   - "clippings"
 ---

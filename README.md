@@ -1,6 +1,6 @@
 # 8-Bit Computer (Ben Eater)
 
-![8-Bit Computer](Images/Ben_Eater_8_Bit_Computer.jpeg)
+![8-Bit Computer](ben_eater_8_bit_computer.jpeg)
 
 *Source: [Ben Eater’s](https://eater.net/) website*
 
