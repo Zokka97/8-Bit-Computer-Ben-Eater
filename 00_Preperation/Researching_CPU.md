@@ -1,1 +1,1 @@
-![8-Bit Computer](Clippings/Central Processing Unit (CPU).md)
+[Central Processing Unit (CPU), Geeks for Geeks](Clippings/Central Processing Unit (CPU).md)
