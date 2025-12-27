@@ -4,7 +4,7 @@
 
 *Source: [Ben Eater’s](https://eater.net/) website*
 
-==This repository documents my learning process while building Ben Eater’s 8-bit breadboard computer.==
+**This repository documents my learning process while building Ben Eater’s 8-bit breadboard computer.**
 
 ## Focus
 - Learning how each block of a CPU (Central Processing Unit) works.
