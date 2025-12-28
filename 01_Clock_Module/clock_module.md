@@ -1,1 +1,1 @@
-![8-Bit Computer](01_Clock_Module/images/schematic.png)
+![8-Bit Computer](../01_Clock_Module/images/schematic.png)
