@@ -16,7 +16,7 @@
 		(uuid "ececc8f9-247f-431d-a640-d183cf9cd228")
 	)
 	(sheet
-		(at 21.59 25.4)
+		(at 20.32 48.26)
 		(size 35.56 22.86)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -32,7 +32,7 @@
 		)
 		(uuid "23156860-93e6-4eb1-8f6c-79601c8beb45")
 		(property "Sheetname" "Clock Module"
-			(at 21.59 24.6884 0)
+			(at 20.32 47.5484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -41,7 +41,7 @@
 			)
 		)
 		(property "Sheetfile" "clock_module.kicad_sch"
-			(at 21.59 48.8446 0)
+			(at 20.32 71.7046 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -53,6 +53,48 @@
 			(project "CPU_block_diagram"
 				(path "/5324683e-15fd-4fa9-8f28-7726564ef1dc"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 20.32 25.4)
+		(size 36.83 15.24)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "73188991-6c99-42c3-a6c7-3d96f653db2d")
+		(property "Sheetname" "Power"
+			(at 20.32 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 20.32 41.2246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CPU_block_diagram"
+				(path "/5324683e-15fd-4fa9-8f28-7726564ef1dc"
+					(page "3")
 				)
 			)
 		)
