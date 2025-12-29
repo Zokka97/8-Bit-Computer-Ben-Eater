@@ -2489,6 +2489,50 @@
 			)
 		)
 	)
+	(global_label "~{CLK}"
+		(shape input)
+		(at 48.26 154.94 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "81f9429b-f257-4a76-8b98-2d7caffffcc0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 54.8133 154.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "CLK"
+		(shape input)
+		(at 48.26 160.02 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c5dd807f-2d60-43f9-a6b6-64ab588acd0d")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 54.8133 160.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(symbol
 		(lib_id "74xx:74LS04")
 		(at 77.47 93.98 0)
