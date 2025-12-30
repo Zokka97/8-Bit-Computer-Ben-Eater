@@ -331,6 +331,131 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:+5V"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+5V"
+				(at 0 3.556 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+5V\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+5V_0_1"
+				(polyline
+					(pts
+						(xy -0.762 1.27) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0.762 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+5V_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:GND"
 			(power)
 			(pin_numbers
@@ -444,14 +569,14 @@
 		(uuid "ececc8f9-247f-431d-a640-d183cf9cd228")
 	)
 	(junction
-		(at 76.2 78.74)
+		(at 76.2 81.28)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "998da27c-9950-4e5c-be2e-dd92cc3ad9c5")
+		(uuid "b02224d2-57e4-4d06-bbb4-7a964b25fc0c")
 	)
 	(wire
 		(pts
-			(xy 64.77 67.31) (xy 57.15 67.31)
+			(xy 64.77 74.93) (xy 62.23 74.93)
 		)
 		(stroke
 			(width 0)
@@ -461,7 +586,17 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 78.74) (xy 73.66 78.74)
+			(xy 63.5 62.23) (xy 57.15 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1269e53a-61eb-43eb-8c94-92c0d5650eef")
+	)
+	(wire
+		(pts
+			(xy 76.2 81.28) (xy 73.66 81.28)
 		)
 		(stroke
 			(width 0)
@@ -471,7 +606,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 78.74) (xy 59.69 78.74)
+			(xy 63.5 81.28) (xy 59.69 81.28)
 		)
 		(stroke
 			(width 0)
@@ -481,13 +616,33 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 71.12) (xy 59.69 78.74)
+			(xy 62.23 67.31) (xy 57.15 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "346d04e4-d5cc-4419-9868-c4b6757a350f")
+	)
+	(wire
+		(pts
+			(xy 59.69 71.12) (xy 59.69 81.28)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "60544d37-6d7a-4bff-8ae0-ced69b43f670")
+	)
+	(wire
+		(pts
+			(xy 62.23 74.93) (xy 62.23 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "670ac3e9-ee60-43e8-a663-ebc8c909f98c")
 	)
 	(wire
 		(pts
@@ -501,7 +656,7 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 64.77) (xy 76.2 78.74)
+			(xy 76.2 72.39) (xy 76.2 81.28)
 		)
 		(stroke
 			(width 0)
@@ -511,7 +666,7 @@
 	)
 	(wire
 		(pts
-			(xy 64.77 62.23) (xy 57.15 62.23)
+			(xy 64.77 69.85) (xy 63.5 69.85)
 		)
 		(stroke
 			(width 0)
@@ -521,7 +676,7 @@
 	)
 	(wire
 		(pts
-			(xy 74.93 64.77) (xy 76.2 64.77)
+			(xy 74.93 72.39) (xy 76.2 72.39)
 		)
 		(stroke
 			(width 0)
@@ -531,17 +686,37 @@
 	)
 	(wire
 		(pts
-			(xy 76.2 78.74) (xy 76.2 82.55)
+			(xy 57.15 58.42) (xy 72.39 58.42)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "dbf8f142-0cfb-40f4-a3cc-ca031957c49f")
+		(uuid "d1840120-0e12-4dfc-b25d-c5f5e55c93b8")
+	)
+	(wire
+		(pts
+			(xy 76.2 81.28) (xy 76.2 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e25efbc4-15d1-4506-9d52-5f16db8457a3")
+	)
+	(wire
+		(pts
+			(xy 63.5 69.85) (xy 63.5 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e96e1705-ab98-40e8-bda8-e97af6e579d2")
 	)
 	(symbol
 		(lib_id "Switch:SW_SPDT")
-		(at 69.85 64.77 0)
+		(at 69.85 72.39 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -551,7 +726,7 @@
 		(fields_autoplaced yes)
 		(uuid "37c34b45-68b5-4a61-8272-03bee852f3ce")
 		(property "Reference" "SW2"
-			(at 69.85 55.88 0)
+			(at 69.85 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -559,7 +734,7 @@
 			)
 		)
 		(property "Value" "SW_SPDT"
-			(at 69.85 58.42 0)
+			(at 69.85 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -567,15 +742,6 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 69.85 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
 			(at 69.85 72.39 0)
 			(effects
 				(font
@@ -584,8 +750,17 @@
 				(hide yes)
 			)
 		)
+		(property "Datasheet" "~"
+			(at 69.85 80.01 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(property "Description" "Switch, single pole double throw"
-			(at 69.85 64.77 0)
+			(at 69.85 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -613,17 +788,16 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 68.58 78.74 0)
+		(at 68.58 81.28 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "a285663a-6e96-477f-9e1b-447c128d7c45")
 		(property "Reference" "SW1"
-			(at 68.58 71.12 0)
+			(at 68.58 83.312 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -631,7 +805,7 @@
 			)
 		)
 		(property "Value" "SW_Push"
-			(at 68.58 73.66 0)
+			(at 68.58 85.852 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -639,7 +813,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 68.58 73.66 0)
+			(at 68.58 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -648,7 +822,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 68.58 73.66 0)
+			(at 68.58 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -657,7 +831,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 68.58 78.74 0)
+			(at 68.58 81.28 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -681,6 +855,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 72.39 58.42 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a2f8a2ef-6731-40ad-a596-d7c2316b3bf0")
+		(property "Reference" "#PWR012"
+			(at 72.39 62.23 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 72.39 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 72.39 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 72.39 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
+			(at 72.39 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d55ca7e9-15a4-403f-8d51-1ce811326705")
+		)
+		(instances
+			(project ""
+				(path "/5324683e-15fd-4fa9-8f28-7726564ef1dc"
+					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 76.2 82.55 0)
 		(mirror y)
@@ -691,7 +931,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dbc35ee2-5f5f-4240-b1eb-88b4f710a311")
-		(property "Reference" "#PWR011"
+		(property "Reference" "#PWR01"
 			(at 76.2 88.9 0)
 			(effects
 				(font
@@ -741,7 +981,7 @@
 		(instances
 			(project ""
 				(path "/5324683e-15fd-4fa9-8f28-7726564ef1dc"
-					(reference "#PWR011")
+					(reference "#PWR01")
 					(unit 1)
 				)
 			)
