@@ -1,1 +1,1 @@
-![8-Bit Computer](../01_Clock_Module/images/schematic.png)
+![8-Bit Computer](KiCad/CPU_block_diagram/CPU_block_diagram-Clock_Module.svg)
