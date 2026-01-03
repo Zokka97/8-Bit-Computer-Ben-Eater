@@ -5,7 +5,7 @@
 	(uuid "27bf677d-e933-4f48-8339-21c64213eeb9")
 	(paper "A4")
 	(title_block
-		(title "Clock Module")
+		(title "Clock_Module")
 	)
 	(lib_symbols
 		(symbol "74xx:74LS04"

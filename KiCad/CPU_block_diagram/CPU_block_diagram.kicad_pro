@@ -629,6 +629,14 @@
     [
       "23156860-93e6-4eb1-8f6c-79601c8beb45",
       "Clock Module"
+    ],
+    [
+      "d4c15e47-95e9-40ff-9967-f62269b25945",
+      "A Register"
+    ],
+    [
+      "4c2cc1d3-6be5-4fae-99e4-6dcacc4ec2b8",
+      "B Register"
     ]
   ],
   "text_variables": {}
