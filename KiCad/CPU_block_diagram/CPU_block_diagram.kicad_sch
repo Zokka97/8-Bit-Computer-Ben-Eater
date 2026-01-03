@@ -2017,48 +2017,6 @@
 		)
 	)
 	(sheet
-		(at 73.66 99.06)
-		(size 35.56 30.48)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "4c2cc1d3-6be5-4fae-99e4-6dcacc4ec2b8")
-		(property "Sheetname" "B Register"
-			(at 73.66 98.3484 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "b_register.kicad_sch"
-			(at 73.66 130.1246 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "CPU_block_diagram"
-				(path "/5324683e-15fd-4fa9-8f28-7726564ef1dc"
-					(page "5")
-				)
-			)
-		)
-	)
-	(sheet
 		(at 20.32 25.4)
 		(size 36.83 15.24)
 		(exclude_from_sim no)
@@ -2096,6 +2054,48 @@
 			(project "CPU_block_diagram"
 				(path "/5324683e-15fd-4fa9-8f28-7726564ef1dc"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 78.74 97.79)
+		(size 33.02 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "a71ef12c-ad37-4d04-9035-f9e49f453cc9")
+		(property "Sheetname" "B Register"
+			(at 78.74 97.0784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "b_register.kicad_sch"
+			(at 78.74 128.8546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CPU_block_diagram"
+				(path "/5324683e-15fd-4fa9-8f28-7726564ef1dc"
+					(page "6")
 				)
 			)
 		)
