@@ -2059,8 +2059,8 @@
 		)
 	)
 	(sheet
-		(at 78.74 97.79)
-		(size 33.02 30.48)
+		(at 72.39 97.79)
+		(size 29.21 30.48)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2073,9 +2073,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "a71ef12c-ad37-4d04-9035-f9e49f453cc9")
+		(uuid "964fdbcc-0799-429c-adf8-7678ec3f685f")
 		(property "Sheetname" "B Register"
-			(at 78.74 97.0784 0)
+			(at 72.39 97.0784 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2084,7 +2084,49 @@
 			)
 		)
 		(property "Sheetfile" "b_register.kicad_sch"
-			(at 78.74 128.8546 0)
+			(at 72.39 128.8546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CPU_block_diagram"
+				(path "/5324683e-15fd-4fa9-8f28-7726564ef1dc"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 107.95 97.79)
+		(size 31.75 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "cea5fef9-3e39-4d22-a88d-e4d85a3010fd")
+		(property "Sheetname" "Instruction Register"
+			(at 107.95 97.0784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "IR_register.kicad_sch"
+			(at 107.95 128.8546 0)
 			(effects
 				(font
 					(size 1.27 1.27)

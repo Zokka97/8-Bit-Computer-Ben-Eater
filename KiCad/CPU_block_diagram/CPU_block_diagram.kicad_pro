@@ -653,8 +653,12 @@
       "A Register"
     ],
     [
-      "a71ef12c-ad37-4d04-9035-f9e49f453cc9",
+      "964fdbcc-0799-429c-adf8-7678ec3f685f",
       "B Register"
+    ],
+    [
+      "cea5fef9-3e39-4d22-a88d-e4d85a3010fd",
+      "Instruction Register"
     ]
   ],
   "text_variables": {}
