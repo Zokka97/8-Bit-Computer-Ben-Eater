@@ -4041,6 +4041,48 @@
 		)
 	)
 	(sheet
+		(at 85.09 50.8)
+		(size 29.21 30.48)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "6c8f7652-d80d-43f7-a2c5-bc773cfeee3d")
+		(property "Sheetname" "Arithmetic Logic Unit"
+			(at 85.09 50.0884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "alu.kicad_sch"
+			(at 85.09 81.8646 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "CPU_block_diagram"
+				(path "/5324683e-15fd-4fa9-8f28-7726564ef1dc"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 38.1 22.86)
 		(size 12.7 3.81)
 		(exclude_from_sim no)

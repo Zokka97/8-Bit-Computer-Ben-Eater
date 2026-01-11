@@ -5,7 +5,7 @@
 	(uuid "71a24a5e-5839-48c4-ae81-d35ab38ae30b")
 	(paper "A4")
 	(title_block
-		(title "Register_A")
+		(title "A_Register")
 	)
 	(lib_symbols
 		(symbol "74xx:74LS173"
@@ -3709,7 +3709,7 @@
 			)
 			(justify left)
 		)
-		(uuid "997705fc-edef-4a78-8e01-5ed618e7f1eb")
+		(uuid "997705fc-edef-4a78-8e01-5ed618e7f1ec")
 	)
 	(hierarchical_label "A2"
 		(shape output)

@@ -659,6 +659,10 @@
     [
       "cea5fef9-3e39-4d22-a88d-e4d85a3010fd",
       "Instruction Register"
+    ],
+    [
+      "6c8f7652-d80d-43f7-a2c5-bc773cfeee3d",
+      "Arithmetic Logic Unit"
     ]
   ],
   "text_variables": {}

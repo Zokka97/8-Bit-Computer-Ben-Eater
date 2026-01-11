@@ -4,6 +4,9 @@
 	(generator_version "9.0")
 	(uuid "62149e50-c360-4171-b08b-4985485c34cb")
 	(paper "A4")
+	(title_block
+		(title "Instruction_Register")
+	)
 	(lib_symbols
 		(symbol "74xx:74LS173"
 			(pin_names
