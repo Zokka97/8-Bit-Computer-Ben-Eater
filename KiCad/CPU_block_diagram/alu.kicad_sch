@@ -4914,6 +4914,28 @@
 		)
 		(uuid "2af746a6-8f22-41b1-aae7-84ac6acaddae")
 	)
+	(text "BUS"
+		(exclude_from_sim no)
+		(at 114.554 38.354 0)
+		(effects
+			(font
+				(size 2.032 2.032)
+			)
+			(justify left)
+		)
+		(uuid "3741fca5-6f62-42b4-8e6f-cd6639a0a317")
+	)
+	(text "Flag Register"
+		(exclude_from_sim no)
+		(at 17.78 95.504 0)
+		(effects
+			(font
+				(size 2.032 2.032)
+			)
+			(justify left)
+		)
+		(uuid "4e0ea705-e6b0-4bba-b4ea-6058ac9973ae")
+	)
 	(text "2nd Adder\n[4, 5, 6, 7]"
 		(exclude_from_sim no)
 		(at 186.944 55.626 0)
